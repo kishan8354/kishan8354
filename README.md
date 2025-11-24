@@ -56,7 +56,7 @@
   <img src="https://i.postimg.cc/GtrB5SsD/pixelcut-export-(2).png" alt="DevOps Banner" width="800px">
 </div>
 
-## 🌐 DevOps & Engineering Learning Hub
+## 🌐 AI-ML & Backend Engineering Hub
 
 > [!IMPORTANT]
 >
