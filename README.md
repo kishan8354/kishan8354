@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![MTech IIT Jammu | Developer | Cloud | Automation | CI/CD](https://img.shields.io/badge/MTech_IIT_Jammu_%7C_Developer_%7C_Cloud_%7C_Automation_%7C_CI/CD-0A0A0A?style=for-the-badge&logo=github&logoColor=white)]()
+[![Developer | Cloud | Automation | AI/ML | Full-Stack](https://img.shields.io/badge/MTech_IIT_Jammu_%7C_Developer_%7C_Cloud_%7C_Automation_%7C_CI/CD-0A0A0A?style=for-the-badge&logo=github&logoColor=white)]()
 
 <img src="https://i.postimg.cc/SN62c43s/pixelcut-export.png" alt="aboutme" width="800px">
 
