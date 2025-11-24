@@ -1,4 +1,4 @@
-# <div align="center">🚀 **Welcome to the Home of Best DevOps & Engineering Resources**</div>
+# <div align="center">🚀 **Automation • AI/ML • Backend • Frontend • Engineering Resources**</div>
 
 <div align="center">
   
