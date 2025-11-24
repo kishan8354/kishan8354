@@ -104,10 +104,12 @@
 ## 🤝 Connect With Me  
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Coming_Soon-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishan-kushavaha-326a42238/)
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kishan%20Kushavaha-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishan-kushavaha-326a42238/)
+  
 [![GitHub](https://img.shields.io/badge/GitHub-kishan8354-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kishan8354)
-[![Email](https://img.shields.io/badge/Email-Coming_Soon-D14836?style=for-the-badge&logo=gmail&logoColor=white)](kk3822065@gmail.com)
+
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kk3822065@gmail.com)
 
 </div>
 
