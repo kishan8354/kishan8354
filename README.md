@@ -1,8 +1,8 @@
-# <div align="center">🚀 **Automation • AI/ML • Backend • Frontend • Engineering Resources**</div>
+# <div AI/ML • Backend • Engineering Resources**</div>
 
 <div align="center">
   
-[![Developer | Cloud | Automation | AI/ML | Full-Stack](https://img.shields.io/badge/Developer%20%7C%20Cloud%20%7C%20Automation%20%7C%20AI%2FML%20%7C%20Full--Stack-0A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kishan8354)
+[![Developer  AI/ML |Backend](https://img.shields.io/badge/Developer%20%7C%20Cloud%20%7C%20Automation%20%7C%20AI%2FML%20%7C%20Full--Stack-0A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kishan8354)
 
 
 <img src="https://i.postimg.cc/SN62c43s/pixelcut-export.png" alt="aboutme" width="800px">
