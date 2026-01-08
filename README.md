@@ -1,4 +1,4 @@
-# <div align="center">> **AI/ML • Backend • Engineering Resources**</div>
+# <div align="center"> **AI/ML • Backend • Engineering Resources**</div>
 
 <div align="center">
   
@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-  <p><strong>Hey there!</strong> 👋 I'm <b>Kishan Kushavaha</b>, an MTech student from <b>IIT Jammu</b>, passionate about Backend Engineering, Security, DevOps and automation.</p>
+  <p><strong>Hey there!</strong> 👋 I'm <b>Kishan Kushavaha</b>, an MTech student from <b>IIT Jammu</b>, passionate about Backend Engineering,AI/ML.</p>
 </div>
 
 <div align="center">
@@ -28,15 +28,9 @@
 <td width="50%">
 
 ### What I Do
-- 🧠 **Backend & Security Engineering**
-  - Flask, Python, SQLite, APIs
+- 🧠 **Backend Engineering**
+  - Python, APIs
   - Browser extension malware analysis
-- 🤖 **Automation Enthusiast**
-  - CI/CD pipelines
-  - System & browser automation
-- 📘 **Research & Development**
-  - Multilingual movie dubbing (voice + lip sync + emotion)
-  - AI + Audio + Security tooling
 
 </td>
 <td width="50%">
