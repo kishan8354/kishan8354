@@ -112,9 +112,7 @@
 ### 🌟 Popular Projects (Your Projects)
 - Hospital Managment System
 - Speech to Speech to translation
-- Mini Data Query Simulation Engine  
 - Chrome Extension Malware Detection  
-- Multilingual Movie Dubbing (Research)  
 
 </td>
 <td width="50%">
@@ -124,7 +122,6 @@
 - Hospital Managment System
 - Speech to Speech to translation
 - Library Management
-
 </td>
 </tr>
 </table>
@@ -141,9 +138,8 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### AI, Audio & Security  
+### AI
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
-![Security](https://img.shields.io/badge/Security%20Tools-000000?style=for-the-badge&logo=probot&logoColor=white)
 
 </div>
 
