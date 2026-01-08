@@ -103,7 +103,7 @@
 
 ## 📂 Featured Repositories  
 
-<img src="https://imgur.com/TCiZWsZ.png" alt="git" width="800px">
+<!-- <img src="https://imgur.com/TCiZWsZ.png" alt="git" width="800px"> -->
 
 <table>
 <tr>
