@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Developer  AI/ML |Backend](https://img.shields.io/badge/Developer%20%7C%20Cloud%20%7C%20Automation%20%7C%20AI%2FML%20%7C%20Full--Stack-0A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kishan8354)
+[![Developer  AI/ML |Backend](https://img.shields.io/badge/Developer%20%7C%20%7C%20AI%2FML%20%7C%20Backend-0A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kishan8354)
 
 
 <img src="https://i.postimg.cc/SN62c43s/pixelcut-export.png" alt="aboutme" width="800px">
@@ -47,7 +47,7 @@
 </table>
 
 <div align="center">
-  <img src="https://i.postimg.cc/GtrB5SsD/pixelcut-export-(2).png" alt="DevOps Banner" width="800px">
+  <!-- <img src="https://i.postimg.cc/GtrB5SsD/pixelcut-export-(2).png" alt="DevOps Banner" width="800px"> -->
 </div>
 
 ## 🌐 AI-ML & Backend Engineering Hub
@@ -62,22 +62,16 @@
 <td width="50%">
 
 ### 📚 Learning Resources  
-*(You will replace links with your own later)*
 
 - 💻 Real-Time Project Hub  
-- 📚 Ultimate Docs Portal  
-- 📦 Repositories Central  
-- 🧭 Jobs Portal  
+- 📚 Ultimate Docs Portal   
+- 🧭 Jobs Portal
 - 📰 Engineering Blogs  
-- ☁️ Cloud Articles  
-- 🐳 Docker → Kubernetes Journey  
 - 🔬 Engineering Lab  
-- 🛠️ Tool Guides  
+- 🛠️ Tool Guides 
 - 📑 Cheatsheets  
 - 🧰 Tools Collection  
-- 📊 Monitoring Solutions  
-- 🎓 Kubernetes Learning  
-- 📈 Dashboards & Tools  
+- 📊 Monitoring Solutions   
 
 </td>
 <td width="50%">
@@ -108,7 +102,6 @@
 </div>
 
 ## 📂 Featured Repositories  
-*(Replace with your projects later)*
 
 <img src="https://imgur.com/TCiZWsZ.png" alt="git" width="800px">
 
@@ -117,7 +110,8 @@
 <td width="50%">
 
 ### 🌟 Popular Projects (Your Projects)
-- SHL Assessment Recommendation System  
+- Hospital Managment System
+- Speech to Speech to translation
 - Mini Data Query Simulation Engine  
 - Chrome Extension Malware Detection  
 - Multilingual Movie Dubbing (Research)  
@@ -127,9 +121,9 @@
 
 ### 🔧 Tools & Systems Built
 - Browser Extension Security Analyzer  
-- Python-based Monitoring System  
-- Flask APIs & DB Tools  
-- Networking Commands Toolkit  
+- Hospital Managment System
+- Speech to Speech to translation
+- Library Management
 
 </td>
 </tr>
@@ -146,10 +140,6 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### DevOps & Cloud  
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ### AI, Audio & Security  
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
