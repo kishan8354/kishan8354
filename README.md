@@ -1,4 +1,4 @@
-# <div align="center">**Systems Engineering • C/C++ • Backend**</div>
+# <div align="center">**C/C++ **</div>
 
 <div align="center">
 
