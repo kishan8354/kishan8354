@@ -1,4 +1,4 @@
-# <div align="center">**C/C++ **</div>
+# <div align="center">C/C++</div>
 
 <div align="center">
 
