@@ -1,20 +1,20 @@
-# <div align="center">C/C++</div>
+# <div align="center">AI / ML</div>
 
 <div align="center">
 
-[![Developer | Systems | C/C++ | Backend](https://img.shields.io/badge/Developer%20%7C%20Systems%20%7C%20C%2FC%2B%2B%20%7C%20Backend-0A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kishan8354)
+[![AI/ML | Deep Learning | Speech & NLP | Research](https://img.shields.io/badge/AI%2FML%20%7C%20Deep%20Learning%20%7C%20Speech%20%26%20NLP%20%7C%20Research-0A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kishan8354)
 
 <img src="https://i.postimg.cc/SN62c43s/pixelcut-export.png" alt="aboutme" width="800px">
 
 </div>
 
 <div align="center">
-  <p><strong>Hey there!</strong> 👋 I'm <b>Kishan Kushavaha</b>, an MTech student from <b>IIT Jammu</b>, passionate about Systems Programming, Backend Engineering, and low-level C/C++ development.</p>
+  <p><strong>Hey there!</strong> 👋 I'm <b>Kishan Kushavaha</b>. I completed my <b>M.Tech (CSE) from IIT Jammu</b> and now work on Deep Learning, Speech & Language Processing, and applied AI research.</p>
 </div>
 
 <div align="center">
 
-![Let's build fast, correct, and close to the metal!](https://img.shields.io/badge/Build%20fast.%20Build%20correct.%20Build%20close%20to%20the%20metal.-00BFFF?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Build models that learn. Build systems that last.](https://img.shields.io/badge/Build%20models%20that%20learn.%20Build%20systems%20that%20last.-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 </div>
 
@@ -29,16 +29,19 @@
 <td width="50%">
 
 ### What I Do
-- ⚙️ **Systems Programming**
-  - Custom memory allocators (TLSF, Buddy, Slab)
-  - Low-level C/C++ design patterns
-  - Performance profiling & benchmarking
-- 🔧 **Backend Engineering**
-  - Python, REST APIs
-  - Browser extension security analysis
+- 🧠 **Deep Learning**
+  - Model design, training & fine-tuning in PyTorch
+  - Transformers, encoder–decoder architectures
+  - Evaluation, ablations & error analysis
+- 🗣️ **Speech & NLP**
+  - Multilingual speech-to-speech translation
+  - Speaker identity & emotion preservation
+  - ASR, TTS and voice-conversion pipelines
 - 🧪 **Research**
-  - Memory management systems (MTech thesis)
-  - Real-time allocator design
+  - M.Tech thesis on multilingual speech translation
+  - Reproducible experiments & benchmarking
+- 🎓 **Teaching**
+  - Assistant Professor, CSE — GL Bajaj Institute, Noida
 
 </td>
 <td width="50%">
@@ -55,32 +58,32 @@
 
 ---
 
-## 🔩 Systems & Engineering Hub
+## 🔩 AI & Research Hub
 
 > [!IMPORTANT]
-> Focused on writing software that is **fast, correct, and understandable** — from bare-metal C to production backend systems.
+> Focused on building models that are **accurate, reproducible, and explainable** — from raw data pipelines to deployed inference.
 
 <table>
 <tr>
 <td width="50%">
 
 ### 🛠️ Areas of Work
-- ⚡ Memory allocator design & analysis
-- 🧱 Data structures from scratch in C/C++
-- 🔬 Performance benchmarking (P95/P99 latency)
-- 🔐 System security & browser extension analysis
-- 📡 Backend APIs & server-side systems
+- 🎙️ Speech translation & voice preservation
+- 📝 NLP: transformers, embeddings, LLMs
+- 👁️ Computer vision & deepfake detection
+- 📊 Dataset curation & preprocessing pipelines
+- ⚙️ Efficient inference & model optimisation
 - 📚 Open-source learning resources
 
 </td>
 <td width="50%">
 
-### 🎯 Engineering Values
-- 🔓 Write code you understand completely
-- 🚀 Measure before optimising
-- 🤝 Build things that are useful to others
-- 🌟 Prefer simple over clever
-- 🛠 Hands-on over theoretical
+### 🎯 Research Values
+- 🔓 Understand the maths, not just the API
+- 🚀 Measure before you claim
+- 🤝 Reproducible results over impressive plots
+- 🌟 Prefer simple baselines over clever ones
+- 🛠 Hands-on experiments over theory alone
 - 💡 Document everything
 
 </td>
@@ -109,17 +112,17 @@
 <tr>
 <td width="50%">
 
-### 🌟 Systems Projects
-- 🧠 **Advanced Memory Allocators** — TLSF, Buddy, Slab, Adaptive (C++17)
-- 🏥 Hospital Management System
-- 🔐 Chrome Extension Malware Detection
-- 🗣️ Speech-to-Speech Translation
+### 🌟 AI / ML Projects
+- 🗣️ **Speech-to-Speech Translation** — multilingual, voice-preserving
+- 🧠 Deep learning experiments & training pipelines
+- 🔐 Chrome Extension Malware Detection (ML-based)
+- 📊 Model benchmarking & evaluation suite
 
 </td>
 <td width="50%">
 
-### 🔧 Tools & Libraries Built
-- Custom allocator benchmark suite (P95/P99 stats)
+### 🔧 Systems & Tools Built
+- Advanced Memory Allocators — TLSF, Buddy, Slab (C++17)
 - Browser Extension Security Analyzer
 - Hospital Management System
 - Library Management System
@@ -137,20 +140,28 @@
 <div align="center">
 
 ### Core Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### Tools & Build Systems
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
-![GDB](https://img.shields.io/badge/GDB-A81D33?style=for-the-badge&logo=gnu&logoColor=white)
-![Valgrind](https://img.shields.io/badge/Valgrind-333333?style=for-the-badge&logo=linux&logoColor=white)
+### AI / ML
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+### Tools & Environment
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### Backend & APIs
+### Backend & Deployment
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </div>
