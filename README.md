@@ -2,23 +2,23 @@
 
 I completed my M.Tech in Computer Science at IIT Jammu. My main interests are **computer vision, vision-language models and generative AI**.
 
-I am interested in how models use image evidence and why they sometimes generate unsupported answers. My current focus is **hallucination detection, visual grounding and evaluation**, especially for medical images.
+I am interested in how models understand images and combine visual information with language. My current focus is **computer vision, medical AI and multimodal learning**.
 
 [LinkedIn](https://www.linkedin.com/in/kishan-kushavaha-326a42238/) · [Email](mailto:kk3822065@gmail.com) · [Research notes](https://github.com/kishan8354/research-project) · [Paper collection](https://github.com/kishan8354/survey-paper-collection)
 
 ## Research focus
 
-![Research questions: from image and question to grounded answers and evaluation](assets/grounding-workflow.svg)
+![Computer vision workflow: images, vision-language models and evaluation](assets/vision-language-workflow.svg)
 
-- Hallucination detection and mitigation in VLMs.
-- Visual grounding, image-text alignment and multimodal reasoning.
+- Computer vision and image understanding.
+- Vision-language models and multimodal learning.
 - Medical visual question answering and report generation.
-- Counterfactual decoding and efficient visual-token processing.
+- Deep learning and efficient model inference.
 
 ## Multimodal models & VLM research
 
-- **[VGS-Decoding](https://github.com/kishan8354/VGS-Decoding)** — my independent implementation of visual-grounding-guided decoding for medical VLMs.
-- **[Research project](https://github.com/kishan8354/research-project)** — related papers, research questions and experiment plans for hallucination and grounding.
+- **[VGS-Decoding](https://github.com/kishan8354/VGS-Decoding)** — my independent implementation of decoding methods for medical VLMs.
+- **[Research project](https://github.com/kishan8354/research-project)** — papers, research notes and experiment plans for computer vision and medical VLMs.
 - **[Survey paper collection](https://github.com/kishan8354/survey-paper-collection)** — papers grouped by year, datasets, 2D/3D inputs, tasks and evaluation metrics.
 
 ## GenAI & LLM applications
