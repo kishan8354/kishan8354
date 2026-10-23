@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1440" height="400" viewBox="0 0 1440 400" role="img" aria-labelledby="title description">
   <title id="title">Kishan Kushavaha — Computer vision and multimodal AI</title>
-  <desc id="description">A dark blue research banner with a stylized image grid connected to model nodes. Focus areas: vision-language models, computer vision, deep learning and generative AI.</desc>
+  <desc id="description">A dark blue research banner with a stylized image grid connected to model nodes. Focus areas: vision-language models, computer vision, medical AI and generative AI.</desc>
   <defs>
     <linearGradient id="background" x2="1" y2="1"><stop stop-color="#0b1427"/><stop offset="1" stop-color="#142a42"/></linearGradient>
     <linearGradient id="accent"><stop stop-color="#70e1da"/><stop offset="1" stop-color="#92b7ff"/></linearGradient>
@@ -13,11 +13,11 @@
     <text x="56" y="112" fill="#8de4dd" font-size="15" letter-spacing="3">COMPUTER VISION · MULTIMODAL AI</text>
     <text x="52" y="180" fill="#f2f7ff" font-size="53" font-weight="700">Kishan Kushavaha</text>
     <text x="56" y="224" fill="#c0cee2" font-size="22">Understanding what models see.</text>
-    <text x="56" y="258" fill="#c0cee2" font-size="22">Exploring images, language and generative AI.</text>
+    <text x="56" y="258" fill="#c0cee2" font-size="22">Researching medical AI, vision and generative AI.</text>
     <rect x="56" y="302" width="199" height="38" rx="19" fill="#203a50"/>
     <text x="155" y="326" fill="#9ce7df" text-anchor="middle" font-size="14">Computer vision</text>
     <rect x="267" y="302" width="234" height="38" rx="19" fill="#233752"/>
-    <text x="384" y="326" fill="#c6d9ff" text-anchor="middle" font-size="14">Deep learning</text>
+    <text x="384" y="326" fill="#c6d9ff" text-anchor="middle" font-size="14">Medical AI</text>
     <rect x="513" y="302" width="151" height="38" rx="19" fill="#293451"/>
     <text x="588" y="326" fill="#d4cdff" text-anchor="middle" font-size="14">Generative AI</text>
   </g>

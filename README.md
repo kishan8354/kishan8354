@@ -1,8 +1,8 @@
 ![Kishan Kushavaha — Computer Vision and Multimodal AI](assets/research-banner.svg)
 
-I completed my M.Tech in Computer Science at IIT Jammu. My main interests are **computer vision, vision-language models and generative AI**.
+I completed my M.Tech in Computer Science at IIT Jammu. My main interests are **computer vision, medical AI, vision-language models and generative AI**.
 
-I am interested in how models understand images and combine visual information with language. My current focus is **computer vision, deep learning and multimodal AI**.
+I am interested in how models understand images and combine visual information with language. My current research focuses on **medical AI, computer vision and multimodal learning**.
 
 [LinkedIn](https://www.linkedin.com/in/kishan-kushavaha-326a42238/) · [Email](mailto:kk3822065@gmail.com) · [Research notes](https://github.com/kishan8354/research-project) · [Paper collection](https://github.com/kishan8354/survey-paper-collection)
 
