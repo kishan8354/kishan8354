@@ -58,6 +58,12 @@ I am organizing a literature collection by publication year, datasets, input dim
 
 I keep project preparation separate from completed experiments: a paper summary is a reading aid, an implementation is a starting point, and a reproduction needs recorded commands, settings, and measured results.
 
+| Workspace | Contents |
+|---|---|
+| [Survey paper collection](https://github.com/kishan8354/survey-paper-collection) | Papers categorized by year, data, dimensionality, tasks, and metrics. |
+| [Research project](https://github.com/kishan8354/research-project) | Closely relevant papers, candidate directions, and experiment records. |
+| [Daily learning](https://github.com/kishan8354/daily-learning) | PyTorch practice, learning notes, and daily progress. |
+
 ## Tools & Foundations
 
 | Area | Tools |
