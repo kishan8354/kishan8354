@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="350" viewBox="0 0 1440 350" role="img" aria-labelledby="title description">
+  <title id="title">Research workflow: from images to grounded answers</title>
+  <desc id="description">Image and question, vision-language model, evidence checks, and evaluation. Each step lists research questions rather than experimental results.</desc>
+  <defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5 0 10" fill="#7395ad"/></marker></defs>
+  <rect width="1440" height="350" rx="22" fill="#0d1929"/>
+  <g font-family="DejaVu Sans, Arial, sans-serif">
+    <text x="40" y="48" font-size="15" letter-spacing="2.2" fill="#89dcd3">THE RESEARCH QUESTIONS</text>
+    <text x="40" y="81" font-size="22" fill="#edf3ff" font-weight="600">Does the answer follow the image?</text>
+    <g fill="#14283b" stroke="#34536b"><rect x="40" y="112" width="298" height="170" rx="14"/><rect x="390" y="112" width="298" height="170" rx="14"/><rect x="740" y="112" width="298" height="170" rx="14"/><rect x="1090" y="112" width="310" height="170" rx="14"/></g>
+    <g fill="#8de4dd" font-size="13"><text x="61" y="144">01 / INPUT</text><text x="411" y="144">02 / MODEL</text><text x="761" y="144">03 / GROUNDING</text><text x="1111" y="144">04 / EVALUATION</text></g>
+    <g fill="#f0f6ff" font-size="20" font-weight="600"><text x="61" y="181">Image + question</text><text x="411" y="181">Vision-language model</text><text x="761" y="181">Check the evidence</text><text x="1111" y="181">Compare the answers</text></g>
+    <g fill="#b6c7da" font-size="16"><text x="61" y="218">Medical images and VQA</text><text x="61" y="247">What does the image show?</text><text x="411" y="218">Visual and language signals</text><text x="411" y="247">What drives the prediction?</text><text x="761" y="218">Regions and interventions</text><text x="761" y="247">Is the answer supported?</text><text x="1111" y="218">Errors, accuracy and cost</text><text x="1111" y="247">When does the model fail?</text></g>
+    <g stroke="#7395ad" stroke-width="2" marker-end="url(#arrow)"><path d="M348 196h30"/><path d="M698 196h30"/><path d="M1048 196h30"/></g>
+    <text x="40" y="321" fill="#819bb5" font-size="13">Visual grounding · Counterfactual decoding · Hallucination detection · Reliable evaluation</text>
+  </g>
+</svg>
