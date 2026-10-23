@@ -1,81 +1,34 @@
-<div align="center">
-
 # Kishan Kushavaha
 
-### Generative AI · Deep Learning · Computer Vision
+### Computer Vision · Vision-Language Models · Generative AI
 
-Building AI projects, studying research papers, and documenting experiments.
+I completed my M.Tech in Computer Science at IIT Jammu. My main interests are computer vision, deep learning and generative AI.
 
-[GitHub](https://github.com/kishan8354) · [LinkedIn](https://www.linkedin.com/in/kishan-kushavaha-326a42238/) · [Email](mailto:kk3822065@gmail.com)
+I am interested in how vision-language models understand images and why they sometimes generate answers that are not supported by the image. My current focus is on hallucination detection, visual grounding and reliable evaluation, especially for medical images.
 
-</div>
+## Research interests
 
----
+- Hallucination detection and mitigation in vision-language models.
+- Visual grounding and image-text alignment.
+- Medical visual question answering and report generation.
+- Efficient inference and visual token pruning.
+- Multimodal reasoning and generative AI.
 
-## About
+## Current work
 
-I completed my M.Tech in Computer Science at IIT Jammu. My interests span generative AI, computer vision, multimodal learning, and speech and language processing.
-
-My current focus is understanding vision-language models: how they use visual evidence, why they hallucinate, and how to evaluate their outputs. Alongside research reading, I am strengthening my PyTorch and Transformer fundamentals through implementation and daily practice.
+- [VGS-Decoding](https://github.com/kishan8354/VGS-Decoding) — my independent implementation of visual-grounding-guided decoding for medical VLMs.
+- [Survey paper collection](https://github.com/kishan8354/survey-paper-collection) — papers organized by year, datasets, 2D/3D inputs, tasks and evaluation metrics.
+- [Research project](https://github.com/kishan8354/research-project) — related papers, research notes and experiment plans for VLM hallucination and grounding.
+- [Daily learning](https://github.com/kishan8354/daily-learning) — my PyTorch, Transformer and computer vision practice.
 
 ## Generative AI
 
-- Natural-language interfaces for working with structured data.
-- Retrieval-augmented generation and conversational applications.
-- Large language models, agents, and evaluation.
+I am also interested in large language models, retrieval-augmented generation and multimodal applications. I want to understand how these models use evidence and how to evaluate the reliability of their answers.
 
-| Project | Focus |
-|---|---|
-| [GenAI SQL Chatbot](https://github.com/kishan8354/GenAi-Sqlchatbot) | Natural-language questions over CSV and Excel data using a multi-agent workflow. |
-| [SocialWise+](https://github.com/kishan8354/daptive-AI-Tutoring-for-Neurodivergent-Learners) | An independent reimplementation of a conversational learning prototype with retrieval-based feedback. |
+## Tools
 
-## Deep Learning
-
-- Neural-network training, validation, and error analysis.
-- Attention, Transformers, and encoder–decoder architectures.
-- PyTorch practice alongside existing TensorFlow/Keras projects.
-
-| Project | Focus |
-|---|---|
-| [Handwritten Digit Recognition](https://github.com/kishan8354/Handwritten-Digit-Recognition) | Digit classification with TensorFlow and Keras. |
-| [Autoencoder Anomaly Detection](https://github.com/kishan8354/Anomaly-detection-in-cloud-computing-networks-by-using-autoencoders) | Autoencoder-based anomaly detection in cloud-computing networks. |
-
-## Computer Vision & Multimodal Research
-
-- Medical image classification and vision-language grounding.
-- Hallucination detection and mitigation in vision-language models.
-- Visual token efficiency and interpretable model behavior.
-
-| Project | Focus |
-|---|---|
-| [VGS-Decoding](https://github.com/kishan8354/VGS-Decoding) | Independent implementation of visual-grounding-guided decoding for medical VLM hallucination mitigation. |
-| [Brain Tumor Classification](https://github.com/kishan8354/Brain-tumor-detection) | MRI image classification with CNNs and transfer learning. |
-| [Virtual Mouse](https://github.com/kishan8354/Virtual-Mouse) | Webcam-based hand gestures for mouse control. |
-
-## Research & Learning
-
-I am organizing a literature collection by publication year, datasets, input dimension, evaluated tasks, and metrics. My reading currently covers medical VLM grounding, hallucination mitigation, and visual token pruning.
-
-I keep project preparation separate from completed experiments: a paper summary is a reading aid, an implementation is a starting point, and a reproduction needs recorded commands, settings, and measured results.
-
-| Workspace | Contents |
-|---|---|
-| [Survey paper collection](https://github.com/kishan8354/survey-paper-collection) | Papers categorized by year, data, dimensionality, tasks, and metrics. |
-| [Research project](https://github.com/kishan8354/research-project) | Closely relevant papers, candidate directions, and experiment records. |
-| [Daily learning](https://github.com/kishan8354/daily-learning) | PyTorch practice, learning notes, and daily progress. |
-
-## Tools & Foundations
-
-| Area | Tools |
-|---|---|
-| Languages | Python, SQL, C++ |
-| Deep learning | PyTorch, TensorFlow, Keras |
-| Machine learning & data | scikit-learn, NumPy, pandas, Jupyter |
-| Computer vision | OpenCV |
-| Workflow | Git, GitHub, Linux |
+Python · PyTorch · TensorFlow · NumPy · pandas · scikit-learn · OpenCV · Jupyter · Git · Linux
 
 ## Connect
 
-I welcome discussions about generative AI, deep learning, computer vision, and reproducible research.
-
-[LinkedIn](https://www.linkedin.com/in/kishan-kushavaha-326a42238/) · [Email](mailto:kk3822065@gmail.com) · [Explore my repositories](https://github.com/kishan8354?tab=repositories)
+[LinkedIn](https://www.linkedin.com/in/kishan-kushavaha-326a42238/) · [Email](mailto:kk3822065@gmail.com) · [GitHub](https://github.com/kishan8354)
