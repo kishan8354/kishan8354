@@ -26,12 +26,10 @@ I am interested in how models use image evidence and why they sometimes generate
 I am interested in language models, retrieval and evidence-based answers, alongside my work on vision-language models.
 
 - **[Daily LLM Revision](https://github.com/kishan8354/Daily-Task-Remainder)** — Gemini-powered coding revision and spaced-repetition automation.
-- **[Data Query API Prototype](https://github.com/kishan8354/mini-data-query-simulation)** — a Flask prototype that simulates natural-language data queries and explanations.
 
 ## Computer vision & deep learning models
 
 - **[Brain Tumor Classification](https://github.com/kishan8354/Brain-tumor-detection)** — CNN and transfer-learning practice for brain MRI classification.
-- **[Handwritten Digit Recognition](https://github.com/kishan8354/Handwritten-Digit-Recognition)** — digit classification with TensorFlow and Keras.
 - **[Autoencoder Anomaly Detection](https://github.com/kishan8354/Anomaly-detection-in-cloud-computing-networks-by-using-autoencoders)** — deep-learning experiments for network anomaly detection.
 - **[Virtual Mouse](https://github.com/kishan8354/Virtual-Mouse)** — hand-gesture-based interaction using computer vision.
 
@@ -41,7 +39,6 @@ I am interested in language models, retrieval and evidence-based answers, alongs
 - **[Customer Segmentation](https://github.com/kishan8354/-CUSTOMER-SEGMENTATION)** — clustering and customer-behavior analysis.
 - **[Titanic Survival Prediction](https://github.com/kishan8354/Titanic-Survival-Prediction)** — logistic regression and Random Forest classification.
 - **[Big Mart Sales Prediction](https://github.com/kishan8354/Big-Mart-sales-prediction)** — regression models for retail-sales prediction.
-- **[Diabetes Prediction](https://github.com/kishan8354/Diabetes_prediction_Machine_learning)** — a prediction notebook and model application.
 
 ## Learning & implementation
 
